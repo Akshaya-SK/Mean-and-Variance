@@ -1,5 +1,6 @@
 #  Mean and variance of a discrete  distribution
 
+## AKSHAYA S K (212223040011)
 
 # Aim : 
 
